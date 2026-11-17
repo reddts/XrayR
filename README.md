@@ -1,7 +1,5 @@
 # XrayR
 
-[![](https://img.shields.io/badge/TgChat-@XrayR讨论-blue.svg)](https://t.me/XrayR_project)
-[![](https://img.shields.io/badge/Channel-@XrayR通知-blue.svg)](https://t.me/XrayR_channel)
 ![](https://img.shields.io/github/stars/reddts/XrayR)
 ![](https://img.shields.io/github/forks/reddts/XrayR)
 ![](https://github.com/reddts/XrayR/actions/workflows/release.yml/badge.svg)
@@ -73,8 +71,6 @@ A Xray backend framework that can easily support many panels.
 curl -fsSLo install.sh https://raw.githubusercontent.com/reddts/XrayR/master/install.sh && sudo bash install.sh
 ```
 
-首次使用前需先在 reddts/XrayR 创建正式 Release，并包含 Linux ZIP 包及对应的 `.dgst` 校验文件。
-
 ### 管理脚本中的 BBR 功能
 
 `XrayR.sh` 管理菜单的第 11 项会调用第三方 Linux-NetSpeed 脚本配置 BBR 等 TCP 加速功能。该功能只在手动选择菜单项后运行，不会随 XrayR 安装或启动自动执行，也不是 XrayR 的通讯功能。
@@ -85,13 +81,7 @@ curl -fsSLo install.sh https://raw.githubusercontent.com/reddts/XrayR/master/ins
 
 [Docker部署说明（含旧版文档提示）](https://github.com/reddts/XrayR/wiki/Documentation-Notice)
 
-### 手动安装
 
-[手动安装教程](https://xrayr-project.github.io/XrayR-doc/xrayr-xia-zai-he-an-zhuang/install/manual)
-
-## 配置文件及详细使用教程
-
-[详细使用教程](https://xrayr-project.github.io/XrayR-doc/)
 
 ## Thanks
 
