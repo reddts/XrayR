@@ -93,13 +93,3 @@ curl -fsSLo install.sh https://raw.githubusercontent.com/reddts/XrayR/master/ins
 ## Licence
 
 [Mozilla Public License Version 2.0](https://github.com/reddts/XrayR/blob/master/LICENSE)
-
-## Telgram
-
-[بحث در مورد XrayR Backend](https://t.me/XrayR_project)
-
-[کانال اعلان در مورد XrayR](https://t.me/XrayR_channel)
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/reddts/XrayR.svg)](https://starchart.cc/reddts/XrayR)

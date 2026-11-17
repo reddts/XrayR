@@ -96,12 +96,3 @@ Trước khi dùng trình cài đặt, hãy phát hành GitHub Release có tệp
 
 [Mozilla Public License Version 2.0](https://github.com/reddts/XrayR/blob/master/LICENSE)
 
-## Telgram
-
-[Xrayr Back-end Thảo luận](https://t.me/XrayR_project)
-
-[Thông báo Xrayr](https://t.me/XrayR_channel)
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/reddts/XrayR.svg)](https://starchart.cc/reddts/XrayR)

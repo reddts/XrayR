@@ -99,12 +99,3 @@ Before using the installer, publish a GitHub Release with the Linux ZIP and its 
 
 [Mozilla Public License Version 2.0](https://github.com/reddts/XrayR/blob/master/LICENSE)
 
-## Telgram
-
-[Xrayr back-end discussion](https://t.me/XrayR_project)
-
-[Xrayr notification](https://t.me/XrayR_channel)
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/reddts/XrayR.svg)](https://starchart.cc/reddts/XrayR)

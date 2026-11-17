@@ -75,6 +75,12 @@ curl -fsSLo install.sh https://raw.githubusercontent.com/reddts/XrayR/master/ins
 
 首次使用前需先在 reddts/XrayR 创建正式 Release，并包含 Linux ZIP 包及对应的 `.dgst` 校验文件。
 
+### 管理脚本中的 BBR 功能
+
+`XrayR.sh` 管理菜单的第 11 项会调用第三方 Linux-NetSpeed 脚本配置 BBR 等 TCP 加速功能。该功能只在手动选择菜单项后运行，不会随 XrayR 安装或启动自动执行，也不是 XrayR 的通讯功能。
+
+该脚本从 `chiakge/Linux-NetSpeed` 仓库的可变 `master` 分支下载并立即执行，且 `XrayR.sh` 要求以 root 权限运行。脚本选项可能修改系统网络参数、安装或移除内核，并可能要求重启；请仅在了解这些影响并确实需要 TCP 加速时使用。
+
 ### 使用Docker部署软件
 
 [Docker部署教程](https://xrayr-project.github.io/XrayR-doc/xrayr-xia-zai-he-an-zhuang/install/docker)
@@ -97,13 +103,3 @@ curl -fsSLo install.sh https://raw.githubusercontent.com/reddts/XrayR/master/ins
 ## Licence
 
 [Mozilla Public License Version 2.0](https://github.com/reddts/XrayR/blob/master/LICENSE)
-
-## Telgram
-
-[XrayR后端讨论](https://t.me/XrayR_project)
-
-[XrayR通知](https://t.me/XrayR_channel)
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/reddts/XrayR.svg)](https://starchart.cc/reddts/XrayR)
