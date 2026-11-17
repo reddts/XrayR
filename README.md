@@ -17,7 +17,7 @@ A Xray backend framework that can easily support many panels.
 
 如果您喜欢本项目，可以右上角点个star+watch，持续关注本项目的进展。
 
-使用教程：[详细使用教程](https://xrayr-project.github.io/XrayR-doc/)
+使用说明：[旧版文档说明与 Docker 简要部署](https://github.com/reddts/XrayR/wiki/Documentation-Notice)
 
 
 ## 免责声明
@@ -83,7 +83,7 @@ curl -fsSLo install.sh https://raw.githubusercontent.com/reddts/XrayR/master/ins
 
 ### 使用Docker部署软件
 
-[Docker部署教程](https://xrayr-project.github.io/XrayR-doc/xrayr-xia-zai-he-an-zhuang/install/docker)
+[Docker部署说明（含旧版文档提示）](https://github.com/reddts/XrayR/wiki/Documentation-Notice)
 
 ### 手动安装
 

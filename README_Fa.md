@@ -16,7 +16,7 @@
 
 اگر این پروژه را دوست دارید، می توانید با کلیک بر روی ستاره+ساعت در گوشه بالا سمت راست به ادامه روند پیشرفت این پروژه توجه کنید.
 
-آموزش：[اموزش با جزئیات](https://xrayr-project.github.io/XrayR-doc/)
+راهنما: [توضیح درباره مستندات قدیمی و راهنمای کوتاه Docker](https://github.com/reddts/XrayR/wiki/Documentation-Notice) (به زبان چینی)
 
 ## سلب مسئولیت
 
@@ -73,15 +73,15 @@ curl -fsSLo install.sh https://raw.githubusercontent.com/reddts/XrayR/master/ins
 
 ### استقرار نرم افزار با استفاده از Docker
 
-[آموزش استقرار داکر](https://xrayr-project.github.io/XrayR-doc/xrayr-xia-zai-he-an-zhuang/install/docker)
+[یادداشت استقرار Docker و مستندات قدیمی](https://github.com/reddts/XrayR/wiki/Documentation-Notice)
 
 ### نصب دستی
 
-[آموزش نصب دستی](https://xrayr-project.github.io/XrayR-doc/xrayr-xia-zai-he-an-zhuang/install/manual)
+[توضیح درباره مستندات قدیمی](https://github.com/reddts/XrayR/wiki/Documentation-Notice)
 
 ## فایل های پیکربندی و آموزش های با جرئیات
 
-[آموزش مفصل](https://xrayr-project.github.io/XrayR-doc/)
+[توضیح مستندات](https://github.com/reddts/XrayR/wiki/Documentation-Notice)
 
 ## Thanks
 

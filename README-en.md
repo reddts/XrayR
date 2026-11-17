@@ -19,7 +19,7 @@ If you like this project, you can click STAR+WATCH in the upper right corner to 
 
 ## Guide for use
 
-Tutorial：[Detailed tutorial](https://xrayr-project.github.io/XrayR-doc/)
+Guide: [Documentation notice and brief Docker deployment](https://github.com/reddts/XrayR/wiki/Documentation-Notice)
 
 
 ## Disclaimer
@@ -78,15 +78,15 @@ Before using the installer, publish a GitHub Release with the Linux ZIP and its 
 
 ### Docker
 
-[Docker deployment tutorial](https://xrayr-project.github.io/XrayR-doc/xrayr-xia-zai-he-an-zhuang/install/docker)
+[Docker deployment notes and legacy documentation notice](https://github.com/reddts/XrayR/wiki/Documentation-Notice)
 
 ### Manual installation
 
-[Manual installation tutorial](https://xrayr-project.github.io/XrayR-doc/xrayr-xia-zai-he-an-zhuang/install/manual)
+[Legacy documentation notice](https://github.com/reddts/XrayR/wiki/Documentation-Notice)
 
 ## Configuration file and detailed use tutorial
 
-[Detailed tutorial](https://xrayr-project.github.io/XrayR-doc/)
+[Documentation notice](https://github.com/reddts/XrayR/wiki/Documentation-Notice)
 
 ## Thanks
 
